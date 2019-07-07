@@ -2,4 +2,5 @@
 
 * [MC Discord Tags](README.md)
 * [MC Discord Tags Changelog](mc-discord-tags-changelog.md)
+* [Example](example.md)
 
