@@ -40,18 +40,18 @@ The command to use the tags below is `?t <tag>` .
 | 32 | modhelp |  |
 | 33 | mojangissue |  |
 | 34 | mrules | Use \#multiplayer to find others to play with in a personal world, Realm, or self-hosted server.
-                Rules
-                This isn't a chat channel. Post a message or reply to a post in a direct message.
-                Follow the format. Messages longer than 7 lines will be removed.
-                Don't post advertisements. Messages promoting other communities, Discord servers, server benefits, populating Realms or server networks, or recruiting staff will be removed.
-                Don't post links, Realm codes, or IP addresses. Only provide this info in a direct message if a member asks for it.
+
+      
                 
-                Format
-                Type: Looking, Hosting
-                Edition: Java, Bedrock, Legacy/PS4
-                Game mode: Creative, Survival, Anarchy, Towny, Mini-Game, etc.
-                Gamertag: Username or Gamertag
-                When: When you want to play or how long you will be online |
+
+       
+                
+         
+          
+             
+         
+ 
+
 | 35 | net |  |
 | 36 | nopirate |  |
 | 37 | notch |  |
