@@ -1,10 +1,11 @@
 # MC Discord Tags Changelog
 
-## 05/07/2019 - Description Update
+## 10/07/2019 - Descriptions Update
 
 ### Added
 
-* Tag descriptions
+* Description to every tag
+* New tags: annaproblems, DaD, whyamiironminer
 
 ## 18/06/2019 - Initial Release
 
