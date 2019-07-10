@@ -14,7 +14,7 @@ The command to use the tags below is `?t <tag>` .
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">1</td>
       <td style="text-align:left">ads</td>
       <td style="text-align:left">#rules
         <img src="https://discordapp.com/assets/dac20f2ccbd28f469f3154cfe6ea1709.svg"
@@ -23,13 +23,13 @@ The command to use the tags below is `?t <tag>` .
         in chat or direct messages.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">2</td>
       <td style="text-align:left">annaproblems</td>
       <td style="text-align:left">&quot;The only people who have problems with Anna are the ones causing
         the problems in the first place.&quot; -MoonbootMurphy</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">3</td>
       <td style="text-align:left">bdt</td>
       <td style="text-align:left">Ba dum tss!
         <img src="https://discordapp.com/assets/072de68f7012cd855f6281a9e1438c82.svg"
@@ -37,7 +37,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">4</td>
       <td style="text-align:left">bedrock</td>
       <td style="text-align:left">Bedrock refers to the Bedrock Engine. It powers <em>Minecraft</em>, the
         cross-platform edition of the game on mobile, Windows 10, VR, Xbox One,
@@ -45,7 +45,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">5</td>
       <td style="text-align:left">bluestone</td>
       <td style="text-align:left">Bluestone doesn&apos;t exist. The Village &amp; Pillage trailer was created
         by an external marketing team, and the blue item in the trailer was a rendering
@@ -53,7 +53,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">6</td>
       <td style="text-align:left">bugs</td>
       <td style="text-align:left">
         <p>Report game bugs on the official bug tracker. <a href="https://bugs.mojang.com/">https://bugs.mojang.com/</a> 
@@ -68,18 +68,18 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">7</td>
       <td style="text-align:left">buy</td>
       <td style="text-align:left">Buy Minecraft: Java Edition from <a href="https://minecraft.net/">https://minecraft.net/</a> or
         Minecraft (Bedrock) from your device&apos;s app store.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">8</td>
       <td style="text-align:left">channels</td>
       <td style="text-align:left">Check out #channel-list to find the appropriate channel to post in.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">9</td>
       <td style="text-align:left">civil</td>
       <td style="text-align:left">
         <p>#rules</p>
@@ -90,7 +90,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">10</td>
       <td style="text-align:left">coppa</td>
       <td style="text-align:left">
         <p>Discord Terms of Service and government laws (COPPA, GDPR) don&apos;t
@@ -106,7 +106,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">11</td>
       <td style="text-align:left">crashlogs</td>
       <td style="text-align:left">
         <p>Follow this guide on how to enable and get crash logs for Minecraft: Java
@@ -118,13 +118,13 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">12</td>
       <td style="text-align:left">DaD</td>
       <td style="text-align:left"><b>Discord After Dark</b>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">13</td>
       <td style="text-align:left">dungeons</td>
       <td style="text-align:left">Minecraft Dungeons is an all-new action-adventure game inspired by classic
         dungeon crawlers coming Spring 2020! Visit the official site to learn more
@@ -132,7 +132,7 @@ The command to use the tags below is `?t <tag>` .
         the pinned messages in #dungeons for additional info and links.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">14</td>
       <td style="text-align:left">dxdiag</td>
       <td style="text-align:left">
         <p>Use the Windows DirectX Diagnostics tool to generate a report about your
@@ -145,7 +145,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">15</td>
       <td style="text-align:left">earth</td>
       <td style="text-align:left">Minecraft Earth is an all-new mobile augmented reality (AR) game that
         brings the Minecraft universe into our universe! Visit the official site
@@ -154,7 +154,7 @@ The command to use the tags below is `?t <tag>` .
         the pinned messages in #minecraft-earth for additional info and links.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">16</td>
       <td style="text-align:left">editions</td>
       <td style="text-align:left">
         <p>&#x2022; Minecraft: Java Edition is the original PC edition for Windows,
@@ -166,13 +166,13 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">17</td>
       <td style="text-align:left">eula</td>
       <td style="text-align:left"><a href="https://minecraft.net/eula">https://minecraft.net/eula</a> 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">18</td>
       <td style="text-align:left">fbc</td>
       <td style="text-align:left">
         <p>Fortnightly Building Challenge (FBC) is our community building challenge
@@ -194,7 +194,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">19</td>
       <td style="text-align:left">feedback</td>
       <td style="text-align:left">
         <p>Submit your game idea or suggestion on the official feedback site. <a href="https://feedback.minecraft.net/">https://feedback.minecraft.net/</a> 
@@ -207,7 +207,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">20</td>
       <td style="text-align:left">five</td>
       <td style="text-align:left">
         <p>When reaching <b>Level 5 (Stone Miner)</b>, you can:</p>
@@ -221,7 +221,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">21</td>
       <td style="text-align:left">getbeta</td>
       <td style="text-align:left">
         <p>Follow these steps to get Minecraft: Java Edition snapshots and Minecraft
@@ -245,7 +245,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">22</td>
       <td style="text-align:left">gethelp</td>
       <td style="text-align:left">
         <p>Need help? Post a message that includes your game edition (Java, Bedrock,
@@ -261,7 +261,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">23</td>
       <td style="text-align:left">herobrine</td>
       <td style="text-align:left"><b>Discuss Herobrine in #off-topic.</b> Herobrine has never been included
         in any official version of Minecraft. You can read more about the third-party,
@@ -269,7 +269,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">24</td>
       <td style="text-align:left">java</td>
       <td style="text-align:left">
         <p>Minecraft: Java Edition is the original edition for PC. Mojang has no
@@ -279,7 +279,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">25</td>
       <td style="text-align:left">kim</td>
       <td style="text-align:left">
         <img src="https://cdn.discordapp.com/emojis/587505418406723584.gif?v=1"
@@ -287,7 +287,7 @@ The command to use the tags below is `?t <tag>` .
         Go to #off-topic for non-Minecraft chat.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">26</td>
       <td style="text-align:left">lang</td>
       <td style="text-align:left">
         <p>#rules</p>
@@ -308,7 +308,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">27</td>
       <td style="text-align:left">leavebeta</td>
       <td style="text-align:left">
         <p>Follow these steps to unenroll from Minecraft (Bedrock) betas. Any worlds
@@ -337,7 +337,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">28</td>
       <td style="text-align:left">m</td>
       <td style="text-align:left">
         <img src="https://cdn.discordapp.com/emojis/587505485163397120.gif?v=1"
@@ -345,7 +345,7 @@ The command to use the tags below is `?t <tag>` .
         chat channel. Read the pinned message and follow the format.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">29</td>
       <td style="text-align:left">marketplace</td>
       <td style="text-align:left">Minecraft Marketplace is a completely optional way to get high-quality
         creations in-game and support the talented community members who create
@@ -355,26 +355,26 @@ The command to use the tags below is `?t <tag>` .
         and worlds from other sources.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">30</td>
       <td style="text-align:left">media</td>
       <td style="text-align:left">Don&apos;t have permissions to post images or videos? Upload your media
         to <a href="https://imgur.com/">https://imgur.com/</a> or <a href="https://streamable.com/">https://streamable.com/</a> and
         share the link. These services are free and don&apos;t require an account.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">31</td>
       <td style="text-align:left">memes</td>
       <td style="text-align:left"><b>Don&apos;t post memes here.</b> Post all rule-abiding memes in #off-topic.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">32</td>
       <td style="text-align:left">microsoft</td>
       <td style="text-align:left">Mojang and Minecraft are part of Xbox Game Studios. Mojang develops and
         makes creative decisions for Minecraft. Microsoft just provides resources,
         office space, and free drinks.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">33</td>
       <td style="text-align:left">minecraft</td>
       <td style="text-align:left">Minecraft is a game about placing blocks and going on adventures. Create!
         Explore! Survive! Visit the official site to get the game and learn more.
@@ -383,7 +383,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">34</td>
       <td style="text-align:left">modhelp</td>
       <td style="text-align:left">
         <p>Administrators and Moderators aren&apos;t developers or support staff.
@@ -394,7 +394,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">35</td>
       <td style="text-align:left">mojangissue</td>
       <td style="text-align:left">
         <p>Contact Mojang Support for assistance with Mojang Account or Realms issues.
@@ -409,7 +409,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">36</td>
       <td style="text-align:left">mrules</td>
       <td style="text-align:left">
         <p>Use #multiplayer to find others to play with in a personal world, Realm,
@@ -434,13 +434,13 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">37</td>
       <td style="text-align:left">net</td>
       <td style="text-align:left"><a href="https://minecraft.net/">https://minecraft.net/</a> 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">38</td>
       <td style="text-align:left">nopirate</td>
       <td style="text-align:left">
         <p><b>Don&#x2019;t pirate the game.</b> Buy Minecraft from <a href="https://minecraft.net/">https://minecraft.net/</a> or
@@ -455,7 +455,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">39</td>
       <td style="text-align:left">notch</td>
       <td style="text-align:left"><b>Discuss Notch in #off-topic.</b> Notch is no longer associated with
         Mojang and has no influence over Minecraft. He stopped working on the game
@@ -464,7 +464,7 @@ The command to use the tags below is `?t <tag>` .
         which includes quotes.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">40</td>
       <td style="text-align:left">optifine</td>
       <td style="text-align:left">OptiFine is a third-party mod and engages in practices that are prohibited
         by the Minecraft End User License Agreement and Minecraft Commercial Usage
@@ -474,7 +474,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">41</td>
       <td style="text-align:left">ot</td>
       <td style="text-align:left">
         <img src="https://discordapp.com/assets/43df7da20ea936e1016d1ea5d79a2c6c.svg"
@@ -482,7 +482,7 @@ The command to use the tags below is `?t <tag>` .
         to post in. Go to #off-topic for non-Minecraft chat.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">42</td>
       <td style="text-align:left">partnerapp</td>
       <td style="text-align:left">
         <p>Apply directly to the Minecraft Partner Program (<a href="https://partner.microsoft.com/en-us/minecraft">https://partner.microsoft.com/en-us/minecraft</a>)
@@ -494,7 +494,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">43</td>
       <td style="text-align:left">pii</td>
       <td style="text-align:left">
         <p>#rules</p>
@@ -505,35 +505,35 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">44</td>
       <td style="text-align:left">pref</td>
       <td style="text-align:left"><b>Minecraft is Minecraft.</b> All editions are great and each has its
         own strong points. Play the edition that you prefer and suits your needs.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">45</td>
       <td style="text-align:left">realmsupdate</td>
       <td style="text-align:left">Realms update when the Realm owner joins with the latest version or 48
         hours after an update is released, whichever occurs first.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">46</td>
       <td style="text-align:left">report</td>
       <td style="text-align:left"><b>Direct message or @mention a Moderator or Administrator to report rule breakers.</b> Don&apos;t
         engage in arguments with offenders.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">47</td>
       <td style="text-align:left">rules</td>
       <td style="text-align:left"><b>That&apos;s against the #rules.</b> Go read the rules and follow them.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">48</td>
       <td style="text-align:left">s</td>
       <td style="text-align:left">The game mode has been changed to survival.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">49</td>
       <td style="text-align:left">staffping</td>
       <td style="text-align:left">
         <p>#rules</p>
@@ -545,7 +545,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">50</td>
       <td style="text-align:left">stats</td>
       <td style="text-align:left">
         <p>Minecraft is alive and smashing records! It currently has over <b>91 million</b> monthly
@@ -558,7 +558,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">51</td>
       <td style="text-align:left">streams</td>
       <td style="text-align:left">
         <p>Watch the official Minecrat livestreams! Get the latest news and play
@@ -574,7 +574,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">52</td>
       <td style="text-align:left">stuckbeta</td>
       <td style="text-align:left">
         <p>Follow these steps if your device is continues to download Minecraft (Bedrock)
@@ -600,7 +600,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">53</td>
       <td style="text-align:left">support</td>
       <td style="text-align:left">
         <p>&#x2022; Mojang Support: <a href="https://help.mojang.com/">https://help.mojang.com/</a> 
@@ -614,7 +614,7 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">54</td>
       <td style="text-align:left">trb</td>
       <td style="text-align:left">TheRaddestBro is an engineer who works on the Redmond/Bedrock Platform
         team. Right now, he is focusing on user storage management. Which means
@@ -623,7 +623,7 @@ The command to use the tags below is `?t <tag>` .
         save space, no matter how large your HD is?</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">55</td>
       <td style="text-align:left">trial</td>
       <td style="text-align:left">
         <p>Not able to buy Minecraft? Check out these free classic and trial options.</p>
@@ -638,12 +638,12 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">56</td>
       <td style="text-align:left">updatewhen</td>
       <td style="text-align:left">When it&apos;s done.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">57</td>
       <td style="text-align:left">welcome</td>
       <td style="text-align:left">
         <p>
@@ -661,12 +661,12 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">58</td>
       <td style="text-align:left">whyamiironminer</td>
       <td style="text-align:left">Check #server-announcements</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">59</td>
       <td style="text-align:left">win10</td>
       <td style="text-align:left">
         <p>Players who purchased Minecraft: Java Edition before October 19, 2018
@@ -679,21 +679,21 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">60</td>
       <td style="text-align:left">xboxclub</td>
       <td style="text-align:left">Join another great community! Players of all ages are welcome to join
         the official Minecraft club on Xbox Live. <a href="http://aka.ms/MinecraftClub">http://aka.ms/MinecraftClub</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">61</td>
       <td style="text-align:left">xboxissue</td>
       <td style="text-align:left">Contact Xbox Support for assistance with Microsoft Account, Xbox Live,
         or Marketplace purchase issues. <a href="https://support.xbox.com/contact-us">https://support.xbox.com/contact-us</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">62</td>
       <td style="text-align:left">xboxsettings</td>
       <td style="text-align:left">
         <p>Sign in to your Microsoft Account at <a href="https://account.xbox.com/settings">https://account.xbox.com/settings</a> and
@@ -715,19 +715,19 @@ The command to use the tags below is `?t <tag>` .
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">63</td>
       <td style="text-align:left">xp</td>
       <td style="text-align:left">Chat in text channels to level up. Type <code>!rank</code> in #bot-commands
         to check your level. Do not spam&#x2014;a random amount of XP will be given
         once per minute of chat activity.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">64</td>
       <td style="text-align:left">yd</td>
       <td style="text-align:left">You don&apos;t.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">65</td>
       <td style="text-align:left">yes</td>
       <td style="text-align:left">minecraft yes yes</td>
     </tr>
